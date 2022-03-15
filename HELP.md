@@ -6,6 +6,7 @@ For further reference, please consider the following sections:
 * [Official Gradle documentation](https://docs.gradle.org)
 * [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.4/gradle-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.4/gradle-plugin/reference/html/#build-image)
+* [Spring initializr share link](https://start.spring.io/#!type=gradle-project&language=java&platformVersion=2.6.4&packaging=jar&jvmVersion=11&groupId=com.spring.docker&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.spring.docker.demo&dependencies=lombok,web,h2,flyway)
 
 ### Additional Links
 These additional references should also help you:
